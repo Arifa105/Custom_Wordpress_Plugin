@@ -19,14 +19,14 @@ Static Methods and Multiple Files
 
 Add custom setting Link.
 
-filters
+Filters
 
 ## Note:
 
-Before Creating the Plugin make sure to set your **wp-config.php** file in your root directory installation of wordpress we define the WP debug global settings
+Before Creating the Plugin make sure to set your **wp-config.php** file in your root directory installation of wordpress I define the WP debug global settings
 to through if it's not set to **true** every time you have an issue or every time you write something wrong like a bad PHP code or something like that 
-your entire website is just not gonna print you're gonna see a blank page we don't want that because we're under development so we need to get all
-the debug information possible all the information that we need to understand what we did wrong and  how to fix our code
+your entire website is just not gonna print you're gonna see a blank page I don't want that because plugin under development so we need to get all
+the debug information possible all the information that I need to understand what I did wrong and how to fix our code
 
 
 
