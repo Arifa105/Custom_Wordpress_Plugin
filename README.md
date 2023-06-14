@@ -19,6 +19,8 @@ Static Methods and Multiple Files
 
 Add custom setting Link.
 
+filters
+
 ## Note:
 
 Before Creating the Plugin make sure to set your **wp-config.php** file in your root directory installation of wordpress we define the WP debug global settings
